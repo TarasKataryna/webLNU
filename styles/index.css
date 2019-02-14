@@ -1,0 +1,17 @@
+.my-carousel{
+    position: relative;
+}
+
+.carousel-inner > .item > img {
+    width:65%;
+}
+
+.my-nav{
+    position: relative;
+}
+
+.navbar{
+    margin-bottom: 0%;
+    border-radius: 0%;
+}
+
