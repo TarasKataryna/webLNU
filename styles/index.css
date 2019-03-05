@@ -19,7 +19,7 @@
     position: absolute;
     top: 30%;
     right: 30%;
-    color: black;
+    color: azure;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -28,6 +28,7 @@
     font-weight: bold;
     font-family: cursive;
     font-size: 70px;
+    text-shadow: black 0 0 3px;
 }
 
 .container{

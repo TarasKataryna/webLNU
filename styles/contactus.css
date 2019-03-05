@@ -1,9 +1,9 @@
-* {
-    box-sizing: border-box;
-  }
-  
+.navbar{
+  border-radius: 0%;
+}
+
  .divAfterCon{
-text-align: center;
+     text-align: center;
  }
   input[type=text], select, textarea {
     width: 100%;
@@ -32,18 +32,7 @@ text-align: center;
   }
   
   .column {
-    float: left;
-    width: 50%;
     margin-top: 6px;
     padding: 20px;
   }
   
-
-  
-
-  @media (max-width: 600px) {
-    .column, input[type=submit] {
-      width: 100%;
-      margin-top: 0;
-    }
-  }
